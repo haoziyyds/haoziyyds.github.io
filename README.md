@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 耗子的博客
 
 You can use the [editor on GitHub](https://github.com/haoziyyds/haoziyyds.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
