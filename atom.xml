@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Chinabilibilihaozi.github.io</id>
+    <id>https://haoziyyds.github.io</id>
     <title>耗子blog</title>
-    <updated>2021-06-28T03:42:01.663Z</updated>
+    <updated>2021-06-28T03:58:33.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Chinabilibilihaozi.github.io"/>
-    <link rel="self" href="https://Chinabilibilihaozi.github.io/atom.xml"/>
+    <link rel="alternate" href="https://haoziyyds.github.io"/>
+    <link rel="self" href="https://haoziyyds.github.io/atom.xml"/>
     <subtitle>耗子的博客</subtitle>
-    <logo>https://Chinabilibilihaozi.github.io/images/avatar.png</logo>
-    <icon>https://Chinabilibilihaozi.github.io/favicon.ico</icon>
+    <logo>https://haoziyyds.github.io/images/avatar.png</logo>
+    <icon>https://haoziyyds.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 耗子blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Chinabilibilihaozi.github.io/post/hello-gridea/</id>
-        <link href="https://Chinabilibilihaozi.github.io/post/hello-gridea/">
+        <id>https://haoziyyds.github.io/post/hello-gridea/</id>
+        <link href="https://haoziyyds.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
